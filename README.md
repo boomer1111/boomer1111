@@ -24,8 +24,7 @@ Hi there, I'm **Pramod Dubey**, a **Javascript and NodeJS developer** and a **12
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-  [![Profile Views](https://hits.dwyl.com/boomer1111/boomer1111.svg?style=flat-square)](http://hits.dwyl.com/boomer1111/boomer1111)
+[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
 ![Boomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomer1111&show_icons=true&theme=dark)
 
 
