@@ -30,7 +30,8 @@ Hi there, I'm **Pramod Dubey**, a **Javascript and NodeJS developer** and a **12
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=boomer1111">
 </a>
-<a href="https://github.com/boomer1111?tab=followers"><img src="https://img.shields.io/github/followers/boomer1111?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/boomer1111?tab=followers"><img src="https://img.shields.io/github/followers/boomer1111?label=Followers&style=social" alt="GitHub Badge">
+
 ![Boomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomer1111&show_icons=true&theme=dark)
 
 
