@@ -25,8 +25,6 @@ Hi there, I'm **Pramod Dubey**, a **Javascript and NodeJS developer** and a **12
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![HYDROX's github stats](https://github-readme-stats.vercel.app/api?username=Pramod-Dubey&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  [![HitCount](https://hits.dwyl.com/boomer1111/boomer1111.svg?style=flat-square)](http://hits.dwyl.com/boomer1111/boomer1111)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod-Dubey&theme=radical&layout=compact)
-
-⭐️ From [Pramod Dubey](https://github.com/Pramod-Dubey)
+⭐️ From [Pramod Dubey](https://github.com/boomer1111)
