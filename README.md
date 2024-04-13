@@ -8,7 +8,7 @@ Hi there, I'm **Pramod Dubey**, a **Javascript and NodeJS developer** and a **12
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m just a 17 year kid, who is learning to code and help people
+- 👨🏽‍💻 I’m just a 19 year kid, who is learning to code and help people
 - 🌱 I’m currently learning Vue and Typescript
 - 🤔 My interests are programming and gaming
 - 💬 Ask me about anything, I am happy to help;
